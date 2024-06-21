@@ -1,6 +1,6 @@
 # Desy_Portfolio
 
-## A B O U T  M E
+## A B O U T   M E
 Proficient in leveraging natural language processing and machine learning to solve complex data-driven problems. Skilled in generating insightful analyses and managing large datasets using Python and SQL. Experienced in providing actionable insights through data visualization and statistical analysis, ensuring datadriven decision-making and engaging stakeholder interactions.
 
 ## S K I L L S
@@ -19,7 +19,7 @@ TRIPLETEN BOOTCAMP / Surabaya / 2024
 STIKOM (Sekolah Tinggi Ilmu Komputer) / Surabaya / 2015
 - Key Skills Developed: Software Development and Programming, Database Design and Management, Systems Analysis and Business Process Modeling, Data Analysis and Decision Support, Network Administration and Security
 
-## W O R K E X P E R I E N C E
+## W O R K   E X P E R I E N C E
 Self-employed
 Homemaker / Surabaya / Present
 - Balanced business operations with household responsibilities, demonstrating strong time management and organizational skills
