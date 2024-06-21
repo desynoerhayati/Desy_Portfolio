@@ -1,6 +1,6 @@
 # Desy_Portfolio
 
-## A B O U T M E
+## A B O U T  M E
 Proficient in leveraging natural language processing and machine learning to solve complex data-driven problems. Skilled in generating insightful analyses and managing large datasets using Python and SQL. Experienced in providing actionable insights through data visualization and statistical analysis, ensuring datadriven decision-making and engaging stakeholder interactions.
 
 ## S K I L L S
