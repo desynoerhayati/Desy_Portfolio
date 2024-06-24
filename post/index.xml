@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Desy Noerhayati</title>
+    <link>https://desynoerhayati.github.io/Desy_Portfolio/post/</link>
+    <description>Recent content in Projects on Desy Noerhayati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2024 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://desynoerhayati.github.io/Desy_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Data Science Predict Churn</title>
+      <link>https://desynoerhayati.github.io/Desy_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://desynoerhayati.github.io/Desy_Portfolio/post/project-1/</guid>
+      <description>The objective of the report to forecast client churn rates for Company has been successfully achieved. The developed churn prediction model demonstrates high performance and reliability. The insights generated from this analysis can be used by the company to offer promotional codes and special package options to retain their clients.</description>
+    </item>
+    
+       
+  </channel>
+</rss>
